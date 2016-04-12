@@ -1,0 +1,21 @@
+{
+  "name": "simple_game",
+  "version": "1.0.0",
+  "description": "Simple game framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "games",
+    "simple"
+  ],
+  "author": "Karl Turner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-layout": "^0.1.0",
+    "jade": "^1.11.0",
+    "socket.io": "^1.4.5"
+  }
+}
